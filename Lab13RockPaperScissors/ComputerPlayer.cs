@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab13RockPaperScissors
 {
-    class Player1 : Player
+    class ComputerPlayer : Player
     {
   
         public override Roshambo GenerateRoshambo()
